@@ -1,5 +1,9 @@
 # Oura Boros Skill
 
+<p align="center">
+  <img src="./assets/oura-boros.png" alt="Oura Boros" />
+</p>
+
 `oura-boros` is a portable skill package for reading Oura Cloud v2 health data through OAuth2 bearer tokens.
 
 Skill path in this repo:
@@ -35,6 +39,10 @@ Fetch from GitHub, then run Claude with the plugin directory:
 git clone https://github.com/ryanjamescaldwell/oura-boros.git
 claude --plugin-dir ./oura-boros
 ```
+
+## Oura API Access
+
+See API access instructions here: https://cloud.ouraring.com/v2/docs#section/Getting-Started/Quick-Start-Guide
 
 ## Required Environment
 

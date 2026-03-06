@@ -1,0 +1,6 @@
+{
+  "name": "oura-boros",
+  "description": "Oura Cloud v2 skill plugin for sleep, stress, heart rate, and related health data.",
+  "version": "0.1.0",
+  "skills": "skills/"
+}

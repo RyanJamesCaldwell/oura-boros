@@ -1,0 +1,3 @@
+interface:
+  display_name: "Oura Boros"
+  short_description: "Call Oura Cloud v2 health endpoints"

@@ -21,12 +21,10 @@ copilot plugin install github.com/ryanjamescaldwell/oura-boros
 
 ### Codex
 
-Install directly from GitHub:
+In Codex, use the built-in `skill-installer` skill:
 
-```bash
-python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo ryanjamescaldwell/oura-boros \
-  --path skills/oura-boros
+```text
+$skill-installer install https://github.com/ryanjamescaldwell/oura-boros/tree/main/skills/oura-boros
 ```
 
 Restart Codex after install.
